@@ -38,3 +38,7 @@ This work is licensed under a
 19. [𝗧𝗚𝗴𝗲𝗲𝗸 ♾ TG极客](https://t.me/TGgeek)
 
 ## Github项目相关
+
+1. [V2raya](https://t.me/v2raya_notification)
+2. [v2rayN&G](https://t.me/v2rayN)
+3. [RSSHub](https://t.me/awesomeRSSHub)
